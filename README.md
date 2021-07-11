@@ -10,16 +10,16 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 
 > **Languages**
 
-![JavaScript(ES6)](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP7+](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Python3](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript(ES6)](https://img.shields.io/badge/-JavaScript(ES6)-black?style=flat-square&logo=javascript)
+![PHP7+](https://img.shields.io/badge/-PHP7+-black?style=flat-square&logo=php)
+![Python3](https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 > **Front-end Technologies**
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-black?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
 > **Back-end Technologies**
