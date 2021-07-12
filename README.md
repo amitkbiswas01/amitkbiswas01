@@ -10,7 +10,7 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 
 > **Languages**
 
-![JavaScript(ES6)](https://img.shields.io/badge/-JavaScript(ES6)-black?style=flat-square&logo=javascript)
+![JavaScript(ES5+)](<https://img.shields.io/badge/-JavaScript(ES5+)-black?style=flat-square&logo=javascript>)
 ![PHP7+](https://img.shields.io/badge/-PHP7+-black?style=flat-square&logo=php)
 ![Python3](https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -33,7 +33,6 @@ Hi! I'm Amit Biswas, currently pursuing my bachelor's degree in **Computer Scien
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 > **Misc**
