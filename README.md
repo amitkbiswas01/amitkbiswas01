@@ -23,9 +23,12 @@
   </a>
 </div>
 
-## **Blog posts**
+## **Blog Posts**
+
+Recent list of blogs I've written on different topics, all the posts are available in [my **dev.to** account](https://dev.to/amitkbiswas01),
 
 <!-- BLOG-POST-LIST:START -->
+
 - [পিএইচপিতে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
 <!-- BLOG-POST-LIST:END -->
 
