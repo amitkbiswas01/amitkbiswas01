@@ -8,7 +8,7 @@
   interest in
   <strong>Distributed Systems, Systems Design, and Cloud Computing</strong>.
   Although skeptical about humans and machines alike, I'm enthusiastic about
-  collaborating and working on ideas that have real impacts!
+  collaborating and working on ideas that have real impacts! Find out more about me below,
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/amitkbiswas01/">
@@ -23,14 +23,16 @@
   </a>
 </div>
 
-## **Blog Posts**
+## **Blog**
 
-Recent list of blogs I've written on different topics, all the posts are available in [my **dev.to** account](https://dev.to/amitkbiswas01),
+List of recent blog posts I've written on different topics.
 
 <!-- BLOG-POST-LIST:START -->
 
 - [পিএইচপিতে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
 <!-- BLOG-POST-LIST:END -->
+
+All my other posts are available in [my **dev.to** account](https://dev.to/amitkbiswas01).
 
 ## **Tech Experiences**
 
