@@ -1,0 +1,17 @@
+name: Latest Blog Posts from dev.to
+
+on:
+  schedule:
+    - cron: "15 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-blog-posts:
+    name: Update amitkbiswas01s profile readme with latest blog posts from dev.to
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/amitkbiswas01"
