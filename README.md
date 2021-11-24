@@ -6,7 +6,7 @@
   <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
   working with <strong>JavaScript</strong> and <strong>PHP</strong>, with a keen
   interest in
-  <strong>Distributed Systems, Systems Design, and Cloud Computing</strong>.
+  <strong>Distributed Systems and Cloud Computing</strong>.
   Although skeptical about humans and machines alike, I'm enthusiastic about
   collaborating and working on ideas that have real impacts! Find out more about me below,
 </p>
@@ -28,6 +28,7 @@
 List of recent blog posts I've written on different topics.
 
 <!-- BLOG-POST-LIST:START -->
+
 - [পিএইচপিতে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -83,7 +84,7 @@ All my other posts are available in [my **dev.to** account](https://dev.to/amitk
         <img alt="VS code"
           src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img alt="oh my zsh"
-          src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
+          src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
       </td>
     </tr>
   </tbody>
