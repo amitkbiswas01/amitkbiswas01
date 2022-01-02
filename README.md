@@ -2,7 +2,7 @@
 
 <p align="left">
   Hi there! I'm <strong>Amit Biswas</strong>, a
-  <em>Trainee Software Engineer</em> at
+  <em>Junior Software Engineer</em> at
   <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
   working with <strong>JavaScript</strong> and <strong>PHP</strong>, with a keen
   interest in
