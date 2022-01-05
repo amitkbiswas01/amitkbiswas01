@@ -43,8 +43,6 @@ All my other posts are available in [my **dev.to** account](https://dev.to/amitk
         <img src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img alt="Vue"
-          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img alt="Drupal"
           src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
         <img alt="MySQL"
@@ -62,6 +60,8 @@ All my other posts are available in [my **dev.to** account](https://dev.to/amitk
           src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
         <img alt="React"
           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img alt="Vue"
+          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img alt="TailwindCSS"
           src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img alt="PostgreSQL"
