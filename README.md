@@ -4,11 +4,9 @@
   Hi there! I'm <strong>Amit Biswas</strong>, a
   <em>Junior Software Engineer</em> at
   <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
-  working with <strong>JavaScript</strong> and <strong>PHP</strong>, with a keen
-  interest in
-  <strong>Distributed Systems and Cloud Computing</strong>.
-  Although skeptical about humans and machines alike, I'm enthusiastic about
-  collaborating and working on ideas that have real impacts! Find out more about me below,
+  working with <strong>JavaScript</strong>, <strong>PHP</strong>, and learning <strong>Go</strong>! Having a keen
+  interest in <strong>Distributed Systems</strong>, <strong>Cloud Computing</strong>, and all things <strong>Backend Engineering</strong>, I'm enthusiastic about
+  collaborating and working on ideas that have real impacts!
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/amitkbiswas01/">
@@ -18,9 +16,6 @@
     <img
       src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/amitb__b">
-    <img src="https://img.shields.io/badge/-amitb__b-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 ## **Blog**
@@ -28,6 +23,7 @@
 List of recent blog posts I've written on different topics.
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Array Manipulation in Go: Insert](https://dev.to/amitkbiswas01/array-manipulation-in-go-insertion-226a)
 - [পিএইচপিতে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
 <!-- BLOG-POST-LIST:END -->
@@ -41,6 +37,7 @@ All my other posts are available in [my **dev.to** account](https://dev.to/amitk
     <tr>
       <td align="center"> <h4>CURRENTLY USING</h4> </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Go-0FA7D0?style=for-the-badge&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
