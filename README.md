@@ -23,7 +23,6 @@
 List of recent blog posts I've written on different topics.
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Array Manipulation in Go: Insert](https://dev.to/amitkbiswas01/array-manipulation-in-go-insertion-226a)
 - [পিএইচপিতে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
 <!-- BLOG-POST-LIST:END -->
