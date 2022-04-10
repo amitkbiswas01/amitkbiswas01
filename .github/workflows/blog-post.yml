@@ -16,7 +16,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "amitkbiswas"
-          STYLE: "blog-alternate"
+          STYLE: "blog-grid"
           COUNT: 4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
