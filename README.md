@@ -20,11 +20,26 @@
 Recent posts I've written on different topics. More at [blog.amitbiswas.me](https://blog.amitbiswas.me/) 📖
 
 <!-- HASHNODE_BLOG:START -->
-
-- [Update Values in Go Slice](https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p)
-- [Insert Values in Go Slice](https://amitkbiswas.hashnode.dev/insert-values-in-go-slice-cl1t8dfvj07hv0wnv7vlg7sh4)
-- [Responsive Embedded Videos with HTML and CSS](https://amitkbiswas.hashnode.dev/responsive-embedded-videos-with-html-css-cl1s73yhy06e1svnvahjy0d8j)
-- [গো (Go) তে বেসিক স্ক্রিপটিং](https://amitkbiswas.hashnode.dev/scripting-basic-in-go-cl1swrix506ol0wnv0k18h4bx)
+<p align="left">
+<a href="https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p" title="Update Values in Go Slice"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649590347235/kwPo4dZQr.jpg" alt="Update Values in Go Slice" width="250px" align="left" /></a>
+<a href="https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p" title="Update Values in Go Slice"><strong>Update Values in Go Slice</strong></a>
+<div><strong>10 Apr 2022</strong></div>
+<br/> In continuation to the previous post about inserting elements in Go slices, this post will discuss some ways of updating and deleting elements. The basics of append and copy methods have been discussed there, so let's jump right into how can we utili... </p> <br/> <br/>
+<p align="left">
+<a href="https://amitkbiswas.hashnode.dev/insert-values-in-go-slice-cl1t8dfvj07hv0wnv7vlg7sh4" title="Insert Values in Go Slice"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649584306965/HoOVIoZr4.jpg" alt="Insert Values in Go Slice" width="250px" align="right" /></a>
+<a href="https://amitkbiswas.hashnode.dev/insert-values-in-go-slice-cl1t8dfvj07hv0wnv7vlg7sh4" title="Insert Values in Go Slice"><strong>Insert Values in Go Slice</strong></a>
+<div><strong>10 Apr 2022</strong></div>
+<br/> Arrays are one of the fundamental data structures used in programming. It generally refers to a collection of data; of a similar or different type; stored in a contiguous location in memory. A lot of the day-to-day tasks of a programmer revolve aroun... </p> <br/> <br/>
+<p align="left">
+<a href="https://amitkbiswas.hashnode.dev/responsive-embedded-videos-with-html-css-cl1s73yhy06e1svnvahjy0d8j" title="Responsive Embedded Videos with HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649529178977/1p382gwiL.png" alt="Responsive Embedded Videos with HTML and CSS" width="250px" align="left" /></a>
+<a href="https://amitkbiswas.hashnode.dev/responsive-embedded-videos-with-html-css-cl1s73yhy06e1svnvahjy0d8j" title="Responsive Embedded Videos with HTML and CSS"><strong>Responsive Embedded Videos with HTML and CSS</strong></a>
+<div><strong>9 Apr 2022</strong> | <strong>Updated: 10 Apr 2022</strong></div>
+<br/> The <iframe> tag can be used to embed videos on a web page from external sources like Youtube/Vimeo. But it requires the width and height attributes to be explicitly mentioned, which can be an issue in terms of responsiveness. When we fix the height/... </p> <br/> <br/>
+<p align="left">
+<a href="https://amitkbiswas.hashnode.dev/scripting-basic-in-go-cl1swrix506ol0wnv0k18h4bx" title="গো (Go) তে বেসিক স্ক্রিপটিং"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649572254415/3SKjQl1MK.webp" alt="গো (Go) তে বেসিক স্ক্রিপটিং" width="250px" align="right" /></a>
+<a href="https://amitkbiswas.hashnode.dev/scripting-basic-in-go-cl1swrix506ol0wnv0k18h4bx" title="গো (Go) তে বেসিক স্ক্রিপটিং"><strong>গো (Go) তে বেসিক স্ক্রিপটিং</strong></a>
+<div><strong>1 Feb 2022</strong> | <strong>Updated: 10 Apr 2022</strong></div>
+<br/> আজকে একটা প্রজেক্টে কাজ করতে গিয়ে খুব স্পেসিফিক একটা সমস্যায় পড়লাম। দ্রুপাল কোরের একটা আপডেটের জন্য প্রজেক্টের কনফিগ ফাইলগুলোতে git diff করে দেখি প্রায় ৪৫০র কাছাকাছি আপডেট হয়েছে! কিছু ইনভেস্টিগেশন করে জানা গেলো অধিকাংশ চেঞ্জই লাইন-পজিশন এর। মানে, ২ ন... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## **Experiences**
