@@ -1,14 +1,11 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-  Hi there! I'm <strong>Amit Biswas</strong>, a
-  <em>Junior Software Engineer</em> at
-  <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
-  working with <strong>JavaScript</strong>, <strong>PHP</strong>, and learning <strong>Go</strong>! Having a keen
-  interest in <strong>Distributed Systems</strong>, <strong>Cloud Computing</strong>, and all things <strong>Backend Engineering</strong>, I'm enthusiastic about
-  collaborating and working on ideas that have real impacts!
+  Hey! I'm <strong>Amit Biswas</strong>, <em>Junior Software Engineer</em> at <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
+  working with <strong>JavaScript, PHP</strong>, and all things <strong>front-end!</strong> Although skeptical about humans and machines alike, I'm enthusiastic about working on ideas that have real impacts!
 </p>
-<div align="center">
+
+<div align="right">
   <a href="https://www.linkedin.com/in/amitkbiswas01/">
     <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
@@ -18,30 +15,31 @@
   </a>
 </div>
 
-## **Blog**
+## **Writings**
 
-List of recent blog posts I've written on different topics.
+Recent posts I've written on different topics. More at [blog.amitbiswas.me](https://blog.amitbiswas.me/) 📖
 
 <!-- HASHNODE_BLOG:START -->
+
 - [Update Values in Go Slice](https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p)
 - [Insert Values in Go Slice](https://amitkbiswas.hashnode.dev/insert-values-in-go-slice-cl1t8dfvj07hv0wnv7vlg7sh4)
 - [Responsive Embedded Videos with HTML and CSS](https://amitkbiswas.hashnode.dev/responsive-embedded-videos-with-html-css-cl1s73yhy06e1svnvahjy0d8j)
 - [গো (Go) তে বেসিক স্ক্রিপটিং](https://amitkbiswas.hashnode.dev/scripting-basic-in-go-cl1swrix506ol0wnv0k18h4bx)
 <!-- HASHNODE_BLOG:END -->
 
-All my other posts are available in [blog.amitbiswas.me](https://blog.amitbiswas.me/).
-
-## **Tech Experiences**
+## **Experiences**
 
 <table>
   <tbody>
     <tr>
       <td align="center"> <h4>CURRENTLY USING</h4> </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Go-0FA7D0?style=for-the-badge&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img 
+          src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img alt="Vue"
+          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img alt="Drupal"
           src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
         <img alt="MySQL"
@@ -59,16 +57,12 @@ All my other posts are available in [blog.amitbiswas.me](https://blog.amitbiswas
           src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
         <img alt="React"
           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="Vue"
-          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img alt="TailwindCSS"
           src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img alt="PostgreSQL"
           src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img alt="MongoDB"
           src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img alt="Azure"
-          src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       </td>
     </tr>
     <tr>
