@@ -23,6 +23,10 @@
 List of recent blog posts I've written on different topics.
 
 <!-- HASHNODE_BLOG:START -->
+- [Update Values in Go Slice](https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p)
+- [Insert Values in Go Slice](https://amitkbiswas.hashnode.dev/insert-values-in-go-slice-cl1t8dfvj07hv0wnv7vlg7sh4)
+- [Responsive Embedded Videos with HTML and CSS](https://amitkbiswas.hashnode.dev/responsive-embedded-videos-with-html-css-cl1s73yhy06e1svnvahjy0d8j)
+- [গো (Go) তে বেসিক স্ক্রিপটিং](https://amitkbiswas.hashnode.dev/scripting-basic-in-go-cl1swrix506ol0wnv0k18h4bx)
 <!-- HASHNODE_BLOG:END -->
 
 All my other posts are available in [blog.amitbiswas.me](https://blog.amitbiswas.me/).
