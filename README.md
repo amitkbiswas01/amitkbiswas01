@@ -22,14 +22,10 @@
 
 List of recent blog posts I've written on different topics.
 
-<!-- BLOG-POST-LIST:START -->
-- [গো &lpar;Go&rpar; তে বেসিক স্ক্রিপটিং](https://dev.to/amitkbiswas01/go-go-te-besik-skripttin-2anf)
-- [গো &lpar;Go&rpar; দিয়ে ডিসজয়েন্ট-সেট ইউনিয়ন](https://dev.to/amitkbiswas01/go-go-diyye-ddisjyyentt-sett-iuniyyn-314f)
-- [গো &lpar;Go&rpar; তে অ্যারে ম্যানিপুলেশন](https://dev.to/amitkbiswas01/array-manipulation-in-go-insertion-226a)
-- [পিএইচপি &lpar;PHP&rpar; তে ডিপেন্ডেন্সি ইঞ্জেকশন প্যাটার্ণ](https://dev.to/amitkbiswas01/pieicpite-ddipenddensi-inyjekshn-pyaattaarnn-4ec2)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
-All my other posts are available in [my **dev.to** account](https://dev.to/amitkbiswas01).
+All my other posts are available in [blog.amitbiswas.me](https://blog.amitbiswas.me/).
 
 ## **Tech Experiences**
 

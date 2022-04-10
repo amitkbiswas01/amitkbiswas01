@@ -1,17 +1,21 @@
-name: Latest Blog Posts from dev.to
+name: Latest Blog Posts from Hashnode
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "15 18 * * *"
-  workflow_dispatch:
 
 jobs:
   fetch-blog-posts:
-    name: Update amitkbiswas01s profile readme with latest blog posts from dev.to
+    name: Update amitkbiswas01 profile readme with latest blog posts from hashnode
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Fetch posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          feed_list: "https://dev.to/feed/amitkbiswas01"
+          USERNAME: "amitkbiswas"
+          COUNT: 4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
