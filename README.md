@@ -22,7 +22,7 @@ Recent posts I've written on different topics. More at [blog.amitbiswas.me](http
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://amitkbiswas.hashnode.dev/building-input-components-in-vue-cl1xie11g009b87nv71tnc712" title="Building Input Components in Vue"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649850478084/nl2SvT5Sz.png" alt="Building Input Components in Vue"   /></a>
 <a href="https://amitkbiswas.hashnode.dev/building-input-components-in-vue-cl1xie11g009b87nv71tnc712" title="Building Input Components in Vue"><strong>Building Input Components in Vue</strong></a>
-<div><strong>13 Apr 2022</strong> | <strong>Updated: 13 Apr 2022</strong></div>
+<div><strong>13 Apr 2022</strong> | <strong>Updated: 20 Apr 2022</strong></div>
 <br/> The web is made up of forms! It's hard to find a public-facing website without a way of taking some kind of input from the visitor. And providing an effective yet simple way to build a form is an essential aspect of a good frontend framework. Enters ...</td><td><a href="https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p" title="Update Values in Go Slice"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649590347235/kwPo4dZQr.jpg" alt="Update Values in Go Slice"   /></a>
 <a href="https://amitkbiswas.hashnode.dev/update-values-in-go-slice-cl1t8euzq087csvnv9obz3v9p" title="Update Values in Go Slice"><strong>Update Values in Go Slice</strong></a>
 <div><strong>10 Apr 2022</strong></div>
