@@ -2,12 +2,15 @@
 
 <p align="left">
   Hey! I'm <strong>Amit Biswas</strong>, <em>Junior Software Engineer</em> at <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
-  working with <strong>JavaScript/Typescript, PHP</strong>, and all things <strong>Full Stack Engineering!</strong> Although skeptical about humans and machines alike, I'm enthusiastic about working on ideas that have real impacts!
+  working with Full Stack <strong>JS/TS and, PHP</strong> based technologies. Although skeptical about humans and machines alike, I'm enthusiastic about working on ideas that have real impacts!
 </p>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/amitkbiswas01/">
     <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/amitkbiswas01/">
+    <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="mailto:amitkbiswas01@gmail.com">
     <img
@@ -20,16 +23,24 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"> <h4>CURRENTLY USING</h4> </td>
+      <td align="center"> <h4>Using</h4> </td>
       <td align="center">
-        <img 
-          src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img
+          src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img
+          src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img alt="Vue"
           src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+        <img alt="Vue"
+          src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=4FC08D" />
         <img alt="Drupal"
           src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+        <img alt="MySQL"
+          src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+        <img alt="MySQL"
+          src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
         <img alt="MySQL"
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
         <img
@@ -37,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"> <h4>FAMILIAR WITH</h4> </td>
+      <td align="center"> <h4>Used</h4> </td>
       <td align="center">
         <img alt="Python"
           src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"> <h4>OTHER TOOLS</h4> </td>
+      <td align="center"> <h4>Tools</h4> </td>
       <td align="center">
         <img alt="Docker"
           src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
