@@ -90,11 +90,11 @@ Recent posts I've written on different topics. More at [blog.amitbiswas.me](http
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stat" align="center" height="175" width="auto"
+    <img alt="stat" align="center" height="165" width="auto"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&hide=html,css&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&theme=dracula&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="lang" align="center" height="175" width="auto"
+    <img alt="lang" align="center" height="165" width="auto"
       src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
   </a>
 </div>
