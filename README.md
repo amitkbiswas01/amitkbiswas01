@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-  Hey! I'm <strong>Amit Biswas</strong>, <em>Junior Software Engineer</em> at <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
+  Hello! I'm <strong>Amit Biswas</strong>, <em>Software Engineer</em> at <a href="https://www.welldev.io/">WellDev Bangladesh Ltd</a>, primarily
   working with Full Stack <strong>JS/TS and, PHP</strong> based technologies. Although skeptical about humans and machines alike, I'm enthusiastic about working on ideas that have real impacts!
 </p>
 
@@ -18,14 +18,14 @@
   </a>
 </div>
 
-## **Experiences**
+## **Technologies**
 
 <table>
   <tbody>
     <tr>
-      <td align="center"> <h4>Using</h4> </td>
+      <td align="center"> <h4>Language and Frameworks</h4> </td>
       <td align="center">
-        <img alt="Javascript"
+        <img
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img
           src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -45,23 +45,8 @@
           src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
         <img
           src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"> <h4>Used</h4> </td>
-      <td align="center">
-        <img alt="Python"
-          src="https://img.shields.io/badge/Python-356C9B?style=for-the-badge&logo=python&logoColor=white" />
-        <img alt="Django"
-          src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-        <img alt="React"
-          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img alt="TailwindCSS"
           src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img alt="PostgreSQL"
-          src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img alt="MongoDB"
-          src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -110,6 +95,6 @@ Recent posts I've written on different topics. More at [blog.amitbiswas.me](http
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="lang" align="center" height="175" width="auto"
-      src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true&custom_title=Amit's GitHub Stats" />
+      src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
   </a>
 </div>
