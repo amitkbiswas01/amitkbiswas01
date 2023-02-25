@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hello! I'm <strong>Amit Biswas</strong>, <em>Software Engineer</em> at <a href="https://www.welldev.io/">WellDev</a>, building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, Nuxt and Drupal. Although a bit skeptical about humans and machines alike, I'm enthusiastic about working on ideas that have impacts! You can find me here ↓
+   Hello! I'm <strong>Amit Biswas</strong>, <em>Software Engineer</em> at <a href="https://www.welldev.io/">WellDev</a>, building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, Nuxt and Drupal. While focused on the front-end side of things, I'm enthusiastic about working on ideas that have impacts. You can find me here ↓
 </p>
 
 <div align="center">
