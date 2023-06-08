@@ -65,6 +65,19 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://amitkbiswas01.hashnode.dev/part-three-setting-up-neovim-clffbc09f000109mo0aa25wuy" title="Part Three: Setting up Neovim"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679224140553/619bbc3e-abb7-4534-a075-742a18b80a06.png" alt="Part Three: Setting up Neovim"   /></a>
+<a href="https://amitkbiswas01.hashnode.dev/part-three-setting-up-neovim-clffbc09f000109mo0aa25wuy" title="Part Three: Setting up Neovim"><strong>Part Three: Setting up Neovim</strong></a>
+<div><strong>19 Mar 2023</strong> | <strong>Updated: 19 Mar 2023</strong></div>
+<br/> I'm new to Neovim! I've been hardly using it for a week now, and a complete switch is yet to be seen on the horizon. But I like the feeling I get when I correctly use those 3/4 shortcuts I could remember and it does something, and I want to give it a...</td><td><a href="https://amitkbiswas01.hashnode.dev/part-two-setting-up-alacritty-clff8fm8x01qpesnv344gc3v4" title="Part Two: Setting up Alacritty"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679206321399/c819ed0a-9e2d-4080-8e5b-1039dc902f3d.png" alt="Part Two: Setting up Alacritty"   /></a>
+<a href="https://amitkbiswas01.hashnode.dev/part-two-setting-up-alacritty-clff8fm8x01qpesnv344gc3v4" title="Part Two: Setting up Alacritty"><strong>Part Two: Setting up Alacritty</strong></a>
+<div><strong>19 Mar 2023</strong> | <strong>Updated: 19 Mar 2023</strong></div>
+<br/> Most Unix-based distros come with their flavor of the terminal emulator app, i.e. Terminal in macOS, gnome-terminal in Ubuntu, Terminator in Manjaro, and so on. I've been using Alacritty for a while now, it's a "blazingly fast" terminal emulator app ...</td></tr><tr><td><a href="https://amitkbiswas01.hashnode.dev/part-one-setting-up-zsh-clff896m1026mg5nv4dmc3lkq" title="Part One: Setting up Zsh"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xbEVM6oJ1Fs/upload/6f4f0f2b27e8d35e0ea2a020e7d8ade7.jpeg" alt="Part One: Setting up Zsh"   /></a>
+<a href="https://amitkbiswas01.hashnode.dev/part-one-setting-up-zsh-clff896m1026mg5nv4dmc3lkq" title="Part One: Setting up Zsh"><strong>Part One: Setting up Zsh</strong></a>
+<div><strong>19 Mar 2023</strong> | <strong>Updated: 19 Mar 2023</strong></div>
+<br/> Setting up a modern terminal workflow can be daunting, but quite rewarding and helpful once you get the hang of it! In this series, Terminal setup for the impatient, I'll share the steps I usually follow to set up a new terminal, and the settings and...</td><td><a href="https://amitkbiswas01.hashnode.dev/building-input-components-in-vue-cled011a9000h09l502jua2zs" title="Building Input Components in Vue"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676908465916/ac7f4fd4-0d87-4b15-8de5-65931fbb3def.png" alt="Building Input Components in Vue"   /></a>
+<a href="https://amitkbiswas01.hashnode.dev/building-input-components-in-vue-cled011a9000h09l502jua2zs" title="Building Input Components in Vue"><strong>Building Input Components in Vue</strong></a>
+<div><strong>20 Feb 2023</strong></div>
+<br/> The web is made up of forms! It's hard to find a public-facing website without a way of taking some kind of input from the visitor. And providing an effective yet simple way to build a form is an essential aspect of a good frontend framework. Enters ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
