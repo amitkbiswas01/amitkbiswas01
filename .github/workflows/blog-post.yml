@@ -17,6 +17,6 @@ jobs:
         with:
           USERNAME: "amitkbiswas01"
           STYLE: "blog-grid"
-          COUNT: 8
+          COUNT: 2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
