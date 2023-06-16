@@ -63,6 +63,17 @@
   </tbody>
 </table>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="stat" align="center" height="165" width="auto"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&hide=html,css&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&theme=dracula&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="lang" align="center" height="165" width="auto"
+      src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
+  </a>
+</div>
+
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://amitkbiswas01.hashnode.dev/part-three-setting-up-neovim-clffbc09f000109mo0aa25wuy" title="Part Three: Setting up Neovim"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679224140553/619bbc3e-abb7-4534-a075-742a18b80a06.png" alt="Part Three: Setting up Neovim"   /></a>
@@ -91,14 +102,3 @@
 <div><strong>10 Apr 2022</strong> | <strong>Updated: 20 Feb 2023</strong></div>
 <br/> কিছুদিন আগে একটা দ্রুপাল প্রজেক্টে কোডবেস মেইনটেইনেন্স এর কাজ করতে গিয়ে ওদের ডকে একটা সাজেশন পাই, যেখানে বলা হয়েছে দ্রুপাল ৮ থেকে দ্রুপালের ইন্টারনাল সার্ভিসগুলো এক্সেস করার "বেটার" উপায় হলো ডিপেন্ডেন্সি ইঞ্জেকশন। যদিও আমি এই অবজেক্ট ওরিয়েন্টেড প্যাট...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stat" align="center" height="165" width="auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&hide=html,css&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&theme=dracula&layout=compact" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="lang" align="center" height="165" width="auto"
-      src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
-  </a>
-</div>
