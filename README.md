@@ -76,11 +76,5 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://amitkbiswas01.hashnode.dev/part-three-setting-up-neovim-clffbc09f000109mo0aa25wuy" title="Part Three: Setting up Neovim"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679224140553/619bbc3e-abb7-4534-a075-742a18b80a06.png" alt="Part Three: Setting up Neovim"   /></a>
-<a href="https://amitkbiswas01.hashnode.dev/part-three-setting-up-neovim-clffbc09f000109mo0aa25wuy" title="Part Three: Setting up Neovim"><strong>Part Three: Setting up Neovim</strong></a>
-<div><strong>19 Mar 2023</strong> | <strong>Updated: 19 Mar 2023</strong></div>
-<br/> I'm new to Neovim! I've been hardly using it for a week now, and a complete switch is yet to be seen on the horizon. But I like the feeling I get when I correctly use those 3/4 shortcuts I could remember and it does something, and I want to give it a...</td><td><a href="https://amitkbiswas01.hashnode.dev/part-two-setting-up-alacritty-clff8fm8x01qpesnv344gc3v4" title="Part Two: Setting up Alacritty"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679206321399/c819ed0a-9e2d-4080-8e5b-1039dc902f3d.png" alt="Part Two: Setting up Alacritty"   /></a>
-<a href="https://amitkbiswas01.hashnode.dev/part-two-setting-up-alacritty-clff8fm8x01qpesnv344gc3v4" title="Part Two: Setting up Alacritty"><strong>Part Two: Setting up Alacritty</strong></a>
-<div><strong>19 Mar 2023</strong> | <strong>Updated: 19 Mar 2023</strong></div>
-<br/> Most Unix-based distros come with their flavor of the terminal emulator app, i.e. Terminal in macOS, gnome-terminal in Ubuntu, Terminator in Manjaro, and so on. I've been using Alacritty for a while now, it's a "blazingly fast" terminal emulator app ...</td></tr></table>
+<table><tr></tr></table>
 <!-- HASHNODE_BLOG:END -->
