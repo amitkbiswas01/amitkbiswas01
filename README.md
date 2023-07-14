@@ -76,13 +76,15 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://amitkbiswas01.hashnode.dev/basic-scripting-in-go-cljk1jdwo000009l77gox4qtf" title="Basic Scripting in Go"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8gr6bObQLOI/upload/bbc6be484de37108b1a0949ee6fa58c4.jpeg" alt="Basic Scripting in Go"   /></a>
+<table><tr><td><a href="https://amitkbiswas01.hashnode.dev/an-algorithm-with-on-complexity-clk1hwk3e000109mnhroka00q" title="An algorithm with O(√n) complexity"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/22ffc461eb5eb2965daa6e51b2ae1191.jpeg" alt="An algorithm with O(√n) complexity"   /></a>
+<a href="https://amitkbiswas01.hashnode.dev/an-algorithm-with-on-complexity-clk1hwk3e000109mnhroka00q" title="An algorithm with O(√n) complexity"><strong>An algorithm with O(√n) complexity</strong></a>
+<div><strong>13 July 2023</strong> | <strong>Updated: 13 July 2023</strong></div>
+<br/> Given two crystal balls that will break if dropped from a high enough distance, determine the exact spot in which it will break in the most optimised way.
+
+Prerequisite: Binary Search, Big-O Notation
+
+Let’s consider the collection of various distance...</td><td><a href="https://amitkbiswas01.hashnode.dev/basic-scripting-in-go-cljk1jdwo000009l77gox4qtf" title="Basic Scripting in Go"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8gr6bObQLOI/upload/bbc6be484de37108b1a0949ee6fa58c4.jpeg" alt="Basic Scripting in Go"   /></a>
 <a href="https://amitkbiswas01.hashnode.dev/basic-scripting-in-go-cljk1jdwo000009l77gox4qtf" title="Basic Scripting in Go"><strong>Basic Scripting in Go</strong></a>
 <div><strong>1 July 2023</strong> | <strong>Updated: 1 July 2023</strong></div>
-<br/> আজকে একটা প্রজেক্টে কাজ করতে গিয়ে খুব স্পেসিফিক একটা সমস্যায় পড়লাম। দ্রুপাল কোরের একটা আপডেটের জন্য প্রজেক্টের কনফিগ ফাইলগুলোতে git diff করে দেখি প্রায় ৪৫০র কাছাকাছি আপডেট হয়েছে! কিছু ইনভেস্টিগেশন করে জানা গেলো অধিকাংশ চেঞ্জই লাইন-পজিশন এর। মানে, ২ ন...</td><td><a href="https://amitkbiswas01.hashnode.dev/disjoint-set-union-in-go-cljk0elk8000509mf4reec16o" title="Disjoint Set Union in Go"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cHhbULJbPwM/upload/757ce03bf4f0a4b9ba662530b4b765a8.jpeg" alt="Disjoint Set Union in Go"   /></a>
-<a href="https://amitkbiswas01.hashnode.dev/disjoint-set-union-in-go-cljk0elk8000509mf4reec16o" title="Disjoint Set Union in Go"><strong>Disjoint Set Union in Go</strong></a>
-<div><strong>1 July 2023</strong> | <strong>Updated: 1 July 2023</strong></div>
-<br/> ডিসজয়েন্ট-সেট বা ইউনিয়ন-ফাইন্ড, পারস্পারিক বিচ্ছিন্ন সেটের বিভিন্ন সমস্যা সমাধানে খুবই পরিচিত একটা ডাটা স্ট্রাকচার। এই পোস্টে আমরা দেখবো কিভাবে Go দিয়ে এটা ইমপ্লিমেন্ট করা যায়।
-ডিসজয়েন্ট-সেট কি?
-যদি কয়েকটা সেটের মধ্যে কোনো কমন এলিমেন্ট না থাকে, তাহলে...</td></tr></table>
+<br/> আজকে একটা প্রজেক্টে কাজ করতে গিয়ে খুব স্পেসিফিক একটা সমস্যায় পড়লাম। দ্রুপাল কোরের একটা আপডেটের জন্য প্রজেক্টের কনফিগ ফাইলগুলোতে git diff করে দেখি প্রায় ৪৫০র কাছাকাছি আপডেট হয়েছে! কিছু ইনভেস্টিগেশন করে জানা গেলো অধিকাংশ চেঞ্জই লাইন-পজিশন এর। মানে, ২ ন...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
