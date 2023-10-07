@@ -13,7 +13,7 @@
   </a>
   <a href="mailto:hi@amitbiswas.me">
     <img
-      src="https://img.shields.io/badge/-hi@amitbiswas.me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+      src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </div>
 
