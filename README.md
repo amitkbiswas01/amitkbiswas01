@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hello! I'm <strong>Amit Biswas</strong>, <em>Software Engineer</em> building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript and React. While focused on the front-end side of things, I'm enthusiastic about working on ideas that have impacts. You can find me here ↓
+   Hello! I'm <strong>Amit Biswas</strong>, Software Engineer building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, React and Nuxt. While focused on the front-end side of things, I'm enthusiastic about working on full stack ideas that have impacts. You can find me here ↓
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
   <a href="https://twitter.com/amitkbiswas01/">
     <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="mailto:hi@amitbiswas.me">
+  <a href="mailto:contact@amitbiswas.me">
     <img
       src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
@@ -28,20 +28,16 @@
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img alt="Typescript"
           src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img alt="PHP"
-          src="https://img.shields.io/badge/PHP7+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img alt="Vue"
-          src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-        <img alt="Nuxt"
-          src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=4FC08D" />
-        <img alt="Drupal"
-          src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+        <img alt="React"
+          src="https://img.shields.io/badge/React-35495E?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img alt="Nextjs"
+          src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
         <img alt="Cypress"
           src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-        <img alt="MySQL"
-          src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&color=42759C&logo=mysql&logoColor=white" />
+        <img alt="PostgreSQL"
+          src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
         <img alt="platform.sh"
-          src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=which" />
+          src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=white" />
         <img alt="TailwindCSS"
           src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       </td>
