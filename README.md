@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hello! I'm <strong>Amit Biswas</strong>, Software Engineer building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, React and Nuxt. While focused on the front-end side of things, I'm enthusiastic about working on full stack ideas that have impacts. You can find me here ↓
+   Hello! I'm <strong>Amit Biswas</strong>, Software Engineer building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, React and Next. While focused on the front-end side of things, I'm enthusiastic about working on full stack ideas that have impacts. You can find me here ↓
 </p>
 
 <div align="center">
@@ -45,6 +45,8 @@
     <tr>
       <td align="center"> <h4>Tools</h4> </td>
       <td align="center">
+         <img alt="Shopify"
+          src="https://img.shields.io/badge/Shopify-FFFFFF?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
         <img alt="Docker"
           src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
         <img alt="Ubuntu"
