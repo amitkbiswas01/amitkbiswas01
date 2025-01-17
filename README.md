@@ -1,15 +1,13 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hello! I'm <strong>Amit Biswas</strong>, Software Engineer building front-end applications ranging from digital experience solutions to holistic management platforms, with Typescript, React and Next. While focused on the front-end side of things, I'm enthusiastic about working on full stack ideas that have impacts. You can find me here ↓
+   Hi, I'm <strong>Amit</strong>! I'm a software engineer based in the UK. If you want to get in touch with me about something or just to say hi, reach out on social media or send me an email ↓
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amitkbiswas01/">
-    <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/amitkbiswas01/">
-    <img src="https://img.shields.io/badge/-Amit_Biswas-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img alt="LinkedIn" 
+     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contact@amitbiswas.me">
     <img
@@ -23,28 +21,24 @@
   <tbody>
     <tr>
       <td align="center"> <h4>Language and Frameworks</h4> </td>
-      <td align="center">
+      <td align="left">
         <img alt="Javascript"
           src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img alt="Typescript"
-          src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img alt="Python" 
+          src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+         <img alt="SQL" 
+          src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img alt="React"
           src="https://img.shields.io/badge/React-35495E?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="Nextjs"
-          src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img alt="Cypress"
-          src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-        <img alt="PostgreSQL"
-          src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-        <img alt="platform.sh"
-          src="https://img.shields.io/badge/platform.sh-FFFFFF?style=for-the-badge&color=black&logo=Platform.sh&logoColor=white" />
         <img alt="TailwindCSS"
           src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center"> <h4>Tools</h4> </td>
-      <td align="center">
+      <td align="left">
+         <img alt="WordPress" 
+          src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
          <img alt="Shopify"
           src="https://img.shields.io/badge/Shopify-FFFFFF?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
         <img alt="Docker"
@@ -71,18 +65,3 @@
       src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
   </a>
 </div>
-
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://amitkbiswas01.hashnode.dev/an-algorithm-with-on-complexity-clk1hwk3e000109mnhroka00q" title="An algorithm with O(√n) complexity"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/22ffc461eb5eb2965daa6e51b2ae1191.jpeg" alt="An algorithm with O(√n) complexity"   /></a>
-<a href="https://amitkbiswas01.hashnode.dev/an-algorithm-with-on-complexity-clk1hwk3e000109mnhroka00q" title="An algorithm with O(√n) complexity"><strong>An algorithm with O(√n) complexity</strong></a>
-<div><strong>13 July 2023</strong> | <strong>Updated: 13 July 2023</strong></div>
-<br/> Given two crystal balls that will break if dropped from a high enough distance, determine the exact spot in which it will break in the most optimised way.
-
-Prerequisite: Binary Search, Big-O Notation
-
-Let’s consider the collection of various distance...</td><td><a href="https://amitkbiswas01.hashnode.dev/basic-scripting-in-go-cljk1jdwo000009l77gox4qtf" title="Basic Scripting in Go"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8gr6bObQLOI/upload/bbc6be484de37108b1a0949ee6fa58c4.jpeg" alt="Basic Scripting in Go"   /></a>
-<a href="https://amitkbiswas01.hashnode.dev/basic-scripting-in-go-cljk1jdwo000009l77gox4qtf" title="Basic Scripting in Go"><strong>Basic Scripting in Go</strong></a>
-<div><strong>1 July 2023</strong> | <strong>Updated: 1 July 2023</strong></div>
-<br/> আজকে একটা প্রজেক্টে কাজ করতে গিয়ে খুব স্পেসিফিক একটা সমস্যায় পড়লাম। দ্রুপাল কোরের একটা আপডেটের জন্য প্রজেক্টের কনফিগ ফাইলগুলোতে git diff করে দেখি প্রায় ৪৫০র কাছাকাছি আপডেট হয়েছে! কিছু ইনভেস্টিগেশন করে জানা গেলো অধিকাংশ চেঞ্জই লাইন-পজিশন এর। মানে, ২ ন...</td></tr></table>
-<!-- HASHNODE_BLOG:END -->
