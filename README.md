@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hi, I'm <strong>Amit</strong>! I'm a software engineer based in the UK. If you want to get in touch with me about something or just to say hi, reach out on social media or send me an email ↓
+   Hi! I'm <strong>Amit</strong>, data engineer based in the UK. Say hi! ↓
 </p>
 
 <div align="left">
