@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hi! I'm <strong>Amit</strong>, data engineer based in the UK. Say hi! ↓
+   Hi! I'm <strong>Amit</strong>, data engineer based in the UK.
 </p>
 
 <div align="left">
@@ -9,6 +9,7 @@
     <img alt="LinkedIn" 
      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   
   <a href="mailto:amitkbiswas01@gmail.com">
     <img
       src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
