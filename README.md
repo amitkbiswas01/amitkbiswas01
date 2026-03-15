@@ -1,7 +1,7 @@
 <img alt="dog-waiving-hand" src="dog.gif" width="75px" />
 
 <p align="left">
-   Hi! I'm <strong>Amit</strong>, data engineer based in the UK.
+   Hi! I'm <strong>Amit</strong>, AWS-certified data engineer based in the UK, currently working at <a href="https://rebura.com/uk/en.html"> Rebura. </a>
 </p>
 
 <div align="left">
@@ -11,18 +11,7 @@
   </a>
    
   <a href="mailto:amitkbiswas01@gmail.com">
-    <img
+    <img alr="Gmail"
       src="https://img.shields.io/badge/-amitkbiswas01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</div>
-<p></p>
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="stat" align="center" height="165" width="auto"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkbiswas01&hide=html,css&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&theme=dracula&layout=compact" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="lang" align="center" height="165" width="auto"
-      src="https://github-readme-stats.vercel.app/api?username=amitkbiswas01&count_private=true&theme=dracula&show_icons=true" />
   </a>
 </div>
